@@ -1,0 +1,21 @@
+<directory>
+<entry>
+<server_name>RPP Lima</server_name>
+<server_type>audio/mp3</server_type>
+<bitrate>128</bitrate>
+<samplerate>1100</samplerate>
+<channels>2</channels>
+<listen_url>https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio</listen_url>
+<current_song> - Noticias del Día</current_song>
+<genre>Noticias</genre>
+</entry>
+<entry>
+<server_name>Ritmo Romantica</server_name>
+<server_type>audio/mp3</server_type>
+<bitrate>128</bitrate>
+<samplerate>1100</samplerate>
+<channels>2</channels>
+<listen_url>https://16643.live.streamtheworld.com/CRP_RIT.mp3?csegid=1010&dist=1010&tdsdk=js-2.9&lat=-12&long=-77&pname=TDSdk&pversion=2.9&banners=none&sbmid=f3bcec08-fea9-4949-a5a2-453703804b22</listen_url>
+<current_song>Ritmo Romantica</current_song>
+<genre>Baladas</genre>
+</entry>
